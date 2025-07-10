@@ -28,9 +28,9 @@ The entire workflow is designed to be simple, scalable, and a solid foundation f
 Below are some snapshots showing the setup and architecture:
 
 ### 📌 Website Flow & Deployment
-![Website Flow 1](Website-images/web1.PNG)
-![Website Flow 2](Website-images/web2.PNG)
-![Website Flow 3](Website-images/web3.PNG)
+![Website Flow 1](website-Photos/web1.PNG)
+![Website Flow 2](website-Photos/web2.PNG)
+![Website Flow 3](website-Photos/web3.PNG)
 
 ### 📌 AWS Load Balancer
 ![Load Balancer](project%20images/Load-Blancers.png)
